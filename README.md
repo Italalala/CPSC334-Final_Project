@@ -3,7 +3,7 @@ Jovenetskah - A performable doll to trigger video installation
 
 **Jovenitskah**
 
-The goal of this project was to create an uncannily human simulacrum which could be used mobily in a performance to trigger
+The goal of this project was to create an uncannily human simulacrum which could be used mobile in a performance to trigger
 video projections. The doll once constructed received the name Jovenetskah. The performance became a meditation on the entrapment
 of memory and trauma in the body, and on relationships with elder family members.
 
